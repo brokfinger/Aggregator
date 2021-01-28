@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+.env
+
+# Django
+migrations/
+db.sqlite3
+
+# Python
+__pycache__/
+
